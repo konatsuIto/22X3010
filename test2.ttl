@@ -1,0 +1,114 @@
+File found: C:\Users\22X3010\Downloads\g202407.csv
+<https://KonatsuIto.github.io/22X3010/test.ttl#record17>
+        <https://KonatsuIto.github.io/22X3010/test.ttl#foreigner>
+                "1,655" ;
+        <https://KonatsuIto.github.io/22X3010/test.ttl#﻿area>
+                "栄区" .
+
+<https://KonatsuIto.github.io/22X3010/test.ttl#record2>
+        <https://KonatsuIto.github.io/22X3010/test.ttl#foreigner>
+                "16,212" ;
+        <https://KonatsuIto.github.io/22X3010/test.ttl#﻿area>
+                "鶴見区" .
+
+<https://KonatsuIto.github.io/22X3010/test.ttl#record11>
+        <https://KonatsuIto.github.io/22X3010/test.ttl#foreigner>
+                "4,016" ;
+        <https://KonatsuIto.github.io/22X3010/test.ttl#﻿area>
+                "金沢区" .
+
+<https://KonatsuIto.github.io/22X3010/test.ttl#record8>
+        <https://KonatsuIto.github.io/22X3010/test.ttl#foreigner>
+                "6,453" ;
+        <https://KonatsuIto.github.io/22X3010/test.ttl#﻿area>
+                "保土ケ谷区" .
+
+<https://KonatsuIto.github.io/22X3010/test.ttl#record10>
+        <https://KonatsuIto.github.io/22X3010/test.ttl#foreigner>
+                "6,221" ;
+        <https://KonatsuIto.github.io/22X3010/test.ttl#﻿area>
+                "磯子区" .
+
+<https://KonatsuIto.github.io/22X3010/test.ttl#record7>
+        <https://KonatsuIto.github.io/22X3010/test.ttl#foreigner>
+                "3,520" ;
+        <https://KonatsuIto.github.io/22X3010/test.ttl#﻿area>
+                "港南区" .
+
+<https://KonatsuIto.github.io/22X3010/test.ttl#record1>
+        <https://KonatsuIto.github.io/22X3010/test.ttl#foreigner>
+                "122,055" ;
+        <https://KonatsuIto.github.io/22X3010/test.ttl#﻿area>
+                "横浜市" .
+
+<https://KonatsuIto.github.io/22X3010/test.ttl#record16>
+        <https://KonatsuIto.github.io/22X3010/test.ttl#foreigner>
+                "5,089" ;
+        <https://KonatsuIto.github.io/22X3010/test.ttl#﻿area>
+                "戸塚区" .
+
+<https://KonatsuIto.github.io/22X3010/test.ttl#record15>
+        <https://KonatsuIto.github.io/22X3010/test.ttl#foreigner>
+                "4,318" ;
+        <https://KonatsuIto.github.io/22X3010/test.ttl#﻿area>
+                "都筑区" .
+
+<https://KonatsuIto.github.io/22X3010/test.ttl#record6>
+        <https://KonatsuIto.github.io/22X3010/test.ttl#foreigner>
+                "12,954" ;
+        <https://KonatsuIto.github.io/22X3010/test.ttl#﻿area>
+                "南区" .
+
+<https://KonatsuIto.github.io/22X3010/test.ttl#record5>
+        <https://KonatsuIto.github.io/22X3010/test.ttl#foreigner>
+                "17,885" ;
+        <https://KonatsuIto.github.io/22X3010/test.ttl#﻿area>
+                "中区" .
+
+<https://KonatsuIto.github.io/22X3010/test.ttl#record14>
+        <https://KonatsuIto.github.io/22X3010/test.ttl#foreigner>
+                "5,731" ;
+        <https://KonatsuIto.github.io/22X3010/test.ttl#﻿area>
+                "青葉区" .
+
+<https://KonatsuIto.github.io/22X3010/test.ttl#record4>
+        <https://KonatsuIto.github.io/22X3010/test.ttl#foreigner>
+                "5,760" ;
+        <https://KonatsuIto.github.io/22X3010/test.ttl#﻿area>
+                "西区" .
+
+<https://KonatsuIto.github.io/22X3010/test.ttl#record13>
+        <https://KonatsuIto.github.io/22X3010/test.ttl#foreigner>
+                "5,332" ;
+        <https://KonatsuIto.github.io/22X3010/test.ttl#﻿area>
+                "緑区" .
+
+<https://KonatsuIto.github.io/22X3010/test.ttl#record19>
+        <https://KonatsuIto.github.io/22X3010/test.ttl#foreigner>
+                "2,455" ;
+        <https://KonatsuIto.github.io/22X3010/test.ttl#﻿area>
+                "瀬谷区" .
+
+<https://KonatsuIto.github.io/22X3010/test.ttl#record12>
+        <https://KonatsuIto.github.io/22X3010/test.ttl#foreigner>
+                "8,317" ;
+        <https://KonatsuIto.github.io/22X3010/test.ttl#﻿area>
+                "港北区" .
+
+<https://KonatsuIto.github.io/22X3010/test.ttl#record9>
+        <https://KonatsuIto.github.io/22X3010/test.ttl#foreigner>
+                "4,275" ;
+        <https://KonatsuIto.github.io/22X3010/test.ttl#﻿area>
+                "旭区" .
+
+<https://KonatsuIto.github.io/22X3010/test.ttl#record3>
+        <https://KonatsuIto.github.io/22X3010/test.ttl#foreigner>
+                "9,192" ;
+        <https://KonatsuIto.github.io/22X3010/test.ttl#﻿area>
+                "神奈川区" .
+
+<https://KonatsuIto.github.io/22X3010/test.ttl#record18>
+        <https://KonatsuIto.github.io/22X3010/test.ttl#foreigner>
+                "2,670" ;
+        <https://KonatsuIto.github.io/22X3010/test.ttl#﻿area>
+                "泉区" .
